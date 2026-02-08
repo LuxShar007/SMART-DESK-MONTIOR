@@ -26,3 +26,37 @@ A practical Arduino-based environmental monitor that tracks real-time temperatur
 1. Install the `DHT sensor library` and `LiquidCrystal I2C` library in the Arduino IDE.
 2. Update the I2C address in the code (default is `0x27`).
 3. Upload the code found in `/src`.
+
+
+# Hi, I'm Sharvin Mhatre 👋
+
+### 🎓 BTech Student | Electronics & Computer Science Engineering
+I'm currently a first-year student at **SIES GST, Navi Mumbai** (Class of 2029). I bridge the gap between hardware and software, with a deep interest in Robotics and AI-driven solutions.
+
+---
+
+## 🛠️ Tech Stack & Skills
+- **Languages:** Java, Haskell, HTML/CSS (Learning Full Stack)
+- **Microcontrollers:** ESP32, Arduino, ESP8266
+- **Interests:** Robotics, IoT, Embedded Systems, and AI-Music Integration
+
+---
+
+## 🏗️ Featured Projects
+- **[Cubet AIMC](https://cubet.space):** Founder of an AI-based music curation platform integrated with the Spotify API.
+- **Smart Desk Monitor:** An Arduino-based environmental monitor for optimized study productivity.
+- **Robotic Omnitrix (In Progress):** An ESP32-powered robotics project exploring wearable tech.
+
+---
+
+## 🔭 Currently Working On
+- Mastering **Java** and **Full Stack Development**.
+- Exploring **Haskell** for functional programming.
+- Improving the **Cubet** recommendation engine.
+
+## 📫 How to Reach Me
+- **LinkedIn:** [Insert your LinkedIn Link here]
+- **Website:** [cubet.space](https://cubet.space)
+
+---
+*"Building the future, one semi-colon at a time."*
